@@ -2,7 +2,7 @@
 
 int factorial(int n);
 int big3(int a, int b, int c);
-
+#execution started from main
 int main() {
     // Factorial
     int num = 5;
