@@ -7,6 +7,7 @@ int main() {
     // Factorial
     int num = 5;
     printf("Factorial of %d is %d\n", num, factorial(num));
+    printf("thank you");
 
     // Largest of three numbers
     int a = 10, b = 25, c = 15;
